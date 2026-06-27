@@ -12,6 +12,7 @@ are small and focused on one concept at a time.
 - **Number properties:** Armstrong numbers, perfect numbers, strong numbers, palindromes
 - **Recursion:** factorial (recursive), indirect recursion
 - **Number systems / digital logic:** base conversions (ConversionBID), half adder
+- **Arrays:** User input 2D and 3D arrays, matrix multiplication, row/column totals, min/max, middle element, reverse using pointers 
 
 ## How to run
 
